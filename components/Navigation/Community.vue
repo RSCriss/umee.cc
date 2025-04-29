@@ -9,7 +9,7 @@
             <UINavigationMainItem link="https://x.com/ux_xyz"
               >X</UINavigationMainItem
             >
-            <UINavigationMainItem link="https://discord.com/invite/uxchain"
+            <UINavigationMainItem link="https://discord.gg/Zh4yZsEbsR"
               >Discord</UINavigationMainItem
             >
             <UINavigationMainItem link="https://t.me/uxuxchain"

@@ -107,7 +107,7 @@
               </ul>
               <UIFooterTitle>Validators</UIFooterTitle>
               <ul>
-                <UIFooterLink to="https://discord.com/invite/uxchain"
+                <UIFooterLink to="https://discord.gg/Zh4yZsEbsR"
                   >Validator Community</UIFooterLink
                 >
                 <UIFooterLink to="https://learning.ux.xyz/validators/"
@@ -127,7 +127,7 @@
               <UIFooterTitle>Socials</UIFooterTitle>
               <ul class="mb-6 md:mb-8">
                 <UIFooterLink to="https://x.com/ux_xyz">X</UIFooterLink>
-                <UIFooterLink to="https://discord.com/invite/uxchain"
+                <UIFooterLink to="https://discord.gg/Zh4yZsEbsR"
                   >Discord</UIFooterLink
                 >
                 <UIFooterLink to="https://t.me/uxuxchain"

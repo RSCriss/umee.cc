@@ -47,7 +47,7 @@ _Participants can also retweet [this post](https://x.com/ux_xyz/status/152227250
 **Tips**
 
 - Creativity is key;
-- Engagement (likes, comments, retweets) will be heavily considered by the judges - participants are encouraged to share their submissions in the **#marketing** channel on the [UX Discord server](https://discord.gg/uxchain) to get additional exposure;
+- Engagement (likes, comments, retweets) will be heavily considered by the judges - participants are encouraged to share their submissions in the **#marketing** channel on the [UX Discord server](https://discord.gg/Zh4yZsEbsR) to get additional exposure;
 - Keep it real - mockups that can easily be brought to life are more desirable than far-out ones.
 
 **Rules**
@@ -98,7 +98,7 @@ Creativity is key! The more out of the box, the better! As long as your submissi
 - Quality
 - Popularity (likes, comments, retweets)
 
-_Hint: to get more exposure on your submission you can share it in the [#designers](https://discord.gg/uxchain) channel on the UX Discord server._
+_Hint: to get more exposure on your submission you can share it in the [#designers](https://discord.gg/Zh4yZsEbsR) channel on the UX Discord server._
 
 Still want to participate but don’t think of yourself as a creative? Not to worry! You’re still eligible to win UX rewards by retweeting this [tweet](https://x.com/ux_xyz/status/1499067194340167680?s=20&t=xldgypQozqj2BKcDgE61lw).
 
