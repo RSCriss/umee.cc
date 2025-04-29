@@ -44,7 +44,7 @@ UX releases new community programs and events on an ongoing basis to gather the 
 <details>
 <summary>Where can I purchase the UX token?</summary>
 
-The UX token is currently AVAILABLE for purchase. The Coinlist public sale has ended, and the TGE occured on February 15th, 2022. More information about where UX can be purchase can be found [here](https://www.coingecko.com/en/coins/Zh4yZsEbsR).
+The UX token is currently AVAILABLE for purchase. The Coinlist public sale has ended, and the TGE occured on February 15th, 2022. More information about where UX can be purchase can be found [here](https://www.coingecko.com/en/coins/uxchain).
 
 </details>
 
